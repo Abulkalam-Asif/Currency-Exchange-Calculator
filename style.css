@@ -1,0 +1,19 @@
+div.btn-group {
+  width: 100%;;
+}
+.itemsA:hover, .itemsB:hover {
+  cursor: default;
+  background: #ddd;
+}
+#currencyAList, #currencyBList {
+  height: 10rem;
+  overflow-y: scroll;
+}
+.user-inputs, .user-inputs:disabled, .user-inputs:focus, .user-inputs:disabled:focus {
+  background: rgb(31, 27, 85);
+  color: #fff;
+}
+
+.form-control::placeholder {
+  color: #fff;
+}
