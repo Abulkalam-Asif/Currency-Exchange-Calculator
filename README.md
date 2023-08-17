@@ -1,9 +1,7 @@
 # CMS
 This is my first Full Stack Project الحمدللہ, a Basic [**College Management System**](https://cms-abulkalam.vercel.app/).
-It has three main panels:
-* Admin Panel
-* Student Panel
-* Teacher Panel
+## Overview
+* [Panels](https://github.com/Abulkalam-Asif/Currency-Exchange-Calculator#admin-panel)
 ## Panels
   ### Admin Panel
   The main section of this site is the **Admin Panel**. Here, you can perform CRUD operations on:
